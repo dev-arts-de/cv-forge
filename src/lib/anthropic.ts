@@ -9,9 +9,11 @@ import {
 } from './prompts'
 import type { Locale } from '@/types'
 
-const client = new Anthropic({
-  apiKey: process.env.ANTHROPIC_API_KEY,
-})
+let _client: Anthropic | null = null
+function getClient() {
+  if (!_client) _client = new Anthropic({ apiKey: process.env.ANTHROPIC_API_KEY })
+  return _client
+}
 
 export class NotACVError extends Error {
   constructor() {
@@ -29,7 +31,7 @@ function parseJSON<T>(text: string): T {
 }
 
 async function callAI(system: string, user: string, maxTokens = 4096): Promise<string> {
-  const message = await client.messages.create({
+  const message = await getClient().messages.create({
     model: 'claude-sonnet-4-20250514',
     max_tokens: maxTokens,
     system,
