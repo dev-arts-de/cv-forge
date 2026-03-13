@@ -1,0 +1,4 @@
+Ich glaube ich würde gerne Landing page also alle Seiten die rund um Bewerber-Schmiede sind, seperat verwalten und die App ist einfach nur später ein teil der auf /app läuft oder unter app.bewerber-schmiede.de.
+Deshalb möchte ich das du grundlegenede landing page sachen rausnimmst und alles so umbaust das das möglich ist und den besten weg für die saas wählst. Generell bitte so Überarbeiten das das Font auch Clean wirkt und mit der Marke zusammenpasst, es ist ein abgerundetes cleanes saas ohne wirklich irgendwelche badges oder "in-your-face" sacehn. Bitte überarbeite den Look nochmal
+
+Das nav finde ich so auch blöd. Du sollst dir mühe geben und daraus das typische und beste saas machen für Bewerber die Hilfe brauchen

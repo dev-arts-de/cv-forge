@@ -1,0 +1,148 @@
+{
+  "meta": {
+    "title": "CVForge — CV'nizi ücretsiz analiz edin",
+    "description": "CV'ler, ön yazılar ve iş ilanları için yapay zeka destekli analiz. Anında geri bildirim alın."
+  },
+  "nav": {
+    "logo": "CVForge",
+    "analyze": "CV Analiz Et",
+    "pricing": "Fiyatlar",
+    "language": "Dil"
+  },
+  "hero": {
+    "badge": "YZ Destekli Kariyer Aracı",
+    "headline": "Mükemmel kariyerinizi şekillendirin.",
+    "subline": "CV'ler, ön yazılar ve iş ilanları için yapay zeka destekli analiz.",
+    "cta_primary": "CV'mi analiz et — ücretsiz",
+    "cta_secondary": "Nasıl çalıştığını gör"
+  },
+  "features": {
+    "title": "Öne çıkmak için ihtiyacınız olan her şey",
+    "subtitle": "Profesyonel belgelerinizin her yönünü kapsayan kapsamlı YZ analizi.",
+    "items": [
+      {
+        "title": "CV Analizi",
+        "desc": "Uygulanabilir geri bildirimlerle 8 noktalı derinlemesine analiz"
+      },
+      {
+        "title": "ATS Kontrolü",
+        "desc": "CV'nizin otomatik takip sistemlerini geçtiğinden emin olun"
+      },
+      {
+        "title": "Dil ve Ton",
+        "desc": "Mükemmel ifade, aktif fiiller ve profesyonel ton"
+      },
+      {
+        "title": "İş Eşleşmesi",
+        "desc": "CV'nizi belirli iş ilanlarıyla karşılaştırın"
+      },
+      {
+        "title": "Hızlı Kazanımlar",
+        "desc": "Şimdi yapabileceğiniz en önemli 3 iyileştirme"
+      },
+      {
+        "title": "Çok Dilli",
+        "desc": "10 dilde analiz mevcut"
+      }
+    ]
+  },
+  "how_it_works": {
+    "title": "Nasıl çalışır",
+    "subtitle": "Daha iyi başvuru belgeleri için üç basit adım.",
+    "steps": [
+      {
+        "step": "01",
+        "title": "CV'nizi yükleyin",
+        "desc": "Metninizi yapıştırın veya PDF dosyası yükleyin"
+      },
+      {
+        "step": "02",
+        "title": "YZ Analizi",
+        "desc": "YZ'miz CV'nizi 8 temel kriter açısından inceler"
+      },
+      {
+        "step": "03",
+        "title": "Sonuçları alın",
+        "desc": "Somut iyileştirmelerle ayrıntılı geri bildirim alın"
+      }
+    ]
+  },
+  "analyze": {
+    "title": "CV'nizi analiz edin",
+    "subtitle": "CV'niz hakkında anında YZ geri bildirimi alın.",
+    "upload_title": "CV'nizi yükleyin veya yapıştırın",
+    "upload_hint": "PDF veya metni doğrudan yapıştırın",
+    "drag_drop": "Dosyanızı buraya sürükleyip bırakın",
+    "or": "veya",
+    "paste_placeholder": "CV metninizi buraya yapıştırın...",
+    "btn_analyze": "Şimdi analiz et",
+    "btn_analyzing": "Analiz ediliyor...",
+    "analyzing_message": "YZ'miz CV'nizi inceliyor...",
+    "results_title": "CV Analiziniz",
+    "overall_score": "Genel Puan",
+    "quick_wins": "En İyi 3 Hızlı Kazanım",
+    "analyze_another": "Başka bir CV analiz et",
+    "score_good": "İyi",
+    "score_fair": "Orta",
+    "score_needs_work": "Geliştirilmeli",
+    "suggestions_hide": "Önerileri gizle",
+    "suggestions_show": "öneri | öneriler"
+  },
+  "categories": {
+    "grundstruktur": "Yapı ve İçerik",
+    "sprache": "Dil ve Üslup",
+    "berufserfahrung": "İş Deneyimi",
+    "ausbildung": "Eğitim ve Gelişim",
+    "skills": "Beceriler",
+    "kontakt": "İletişim ve Profil",
+    "ats": "ATS ve Okunabilirlik",
+    "gesamtwirkung": "Genel Etki",
+    "checks_show": "Tüm kriterleri göster",
+    "checks_hide": "Daralt"
+  },
+  "premium": {
+    "locked_title": "İş Eşleşmesi — Premium",
+    "locked_desc": "Ön yazınızı analiz edin ve iş ilanıyla karşılaştırın.",
+    "unlock_btn": "Premium'u Aç",
+    "badge": "Premium",
+    "job_match": "Eşleşme puanı",
+    "cover_letter": "Kapak mektubu puanı",
+    "missing_keywords": "Eksik anahtar kelimeler"
+  },
+  "pricing": {
+    "title": "Basit Fiyatlandırma",
+    "subtitle": "Ücretsiz başlayın, daha fazlasına ihtiyaç duyduğunuzda yükseltin.",
+    "free_title": "Ücretsiz",
+    "free_price": "€0",
+    "premium_title": "Premium",
+    "premium_price": "€9,99",
+    "per_month": "/ ay",
+    "free_features": [
+      "CV Analizi (3/gün)",
+      "8 noktalı puanlama",
+      "Hızlı kazanım geri bildirimi",
+      "10 dil mevcut"
+    ],
+    "premium_features": [
+      "Ücretsiz'deki her şey",
+      "İş eşleşmesi analizi",
+      "Ön yazı incelemesi",
+      "Sınırsız analiz",
+      "Öncelikli YZ işleme"
+    ],
+    "cta_free": "Ücretsiz başla",
+    "cta_premium": "Premium'a Geç"
+  },
+  "errors": {
+    "file_too_large": "Dosya çok büyük. Maksimum 5MB.",
+    "invalid_type": "Yalnızca PDF ve TXT dosyaları desteklenmektedir.",
+    "analysis_failed": "Analiz başarısız. Lütfen tekrar deneyin.",
+    "rate_limit": "Ücretsiz limitinize ulaştınız. Yarın tekrar deneyin veya yükseltin."
+  },
+  "footer": {
+    "tagline": "Mükemmel kariyerinizi şekillendirin.",
+    "privacy": "Gizlilik Politikası",
+    "terms": "Hizmet Şartları",
+    "imprint": "Künye"
+  }
+}

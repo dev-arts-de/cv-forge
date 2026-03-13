@@ -1,0 +1,148 @@
+{
+  "meta": {
+    "title": "CVForge — Analysez votre CV gratuitement",
+    "description": "Analyse par IA pour CVs, lettres de motivation & offres d'emploi. Obtenez un retour instantané."
+  },
+  "nav": {
+    "logo": "CVForge",
+    "analyze": "Analyser CV",
+    "pricing": "Tarifs",
+    "language": "Langue"
+  },
+  "hero": {
+    "badge": "Outil de carrière propulsé par l'IA",
+    "headline": "Forgez votre carrière parfaite.",
+    "subline": "Analyse IA pour CVs, lettres de motivation & offres d'emploi.",
+    "cta_primary": "Analyser mon CV — gratuit",
+    "cta_secondary": "Voir comment ça marche"
+  },
+  "features": {
+    "title": "Tout ce dont vous avez besoin pour vous démarquer",
+    "subtitle": "Analyse IA complète couvrant chaque aspect de vos documents professionnels.",
+    "items": [
+      {
+        "title": "Analyse CV",
+        "desc": "Analyse approfondie en 8 points de votre CV avec des retours actionnables"
+      },
+      {
+        "title": "Vérification ATS",
+        "desc": "Assurez-vous que votre CV passe les systèmes de suivi automatisés"
+      },
+      {
+        "title": "Langue & Ton",
+        "desc": "Formulation parfaite, verbes actifs et ton professionnel"
+      },
+      {
+        "title": "Correspondance emploi",
+        "desc": "Comparez votre CV avec des offres d'emploi spécifiques"
+      },
+      {
+        "title": "Gains rapides",
+        "desc": "Les 3 améliorations prioritaires que vous pouvez faire maintenant"
+      },
+      {
+        "title": "Multilingue",
+        "desc": "Analyse disponible en 10 langues"
+      }
+    ]
+  },
+  "how_it_works": {
+    "title": "Comment ça marche",
+    "subtitle": "Trois étapes simples pour de meilleurs documents de candidature.",
+    "steps": [
+      {
+        "step": "01",
+        "title": "Téléchargez votre CV",
+        "desc": "Collez votre texte ou téléchargez un fichier PDF"
+      },
+      {
+        "step": "02",
+        "title": "Analyse IA",
+        "desc": "Notre IA examine votre CV selon 8 critères clés"
+      },
+      {
+        "step": "03",
+        "title": "Obtenez les résultats",
+        "desc": "Recevez des retours détaillés avec des améliorations concrètes"
+      }
+    ]
+  },
+  "analyze": {
+    "title": "Analyser votre CV",
+    "subtitle": "Obtenez un retour instantané par IA sur votre CV.",
+    "upload_title": "Télécharger ou coller votre CV",
+    "upload_hint": "PDF ou coller du texte directement",
+    "drag_drop": "Glissez-déposez votre fichier ici",
+    "or": "ou",
+    "paste_placeholder": "Collez le texte de votre CV ici...",
+    "btn_analyze": "Analyser maintenant",
+    "btn_analyzing": "Analyse en cours...",
+    "analyzing_message": "Notre IA examine votre CV...",
+    "results_title": "Votre analyse CV",
+    "overall_score": "Score global",
+    "quick_wins": "Top 3 gains rapides",
+    "analyze_another": "Analyser un autre CV",
+    "score_good": "Bien",
+    "score_fair": "Moyen",
+    "score_needs_work": "À améliorer",
+    "suggestions_hide": "Masquer les suggestions",
+    "suggestions_show": "suggestion | suggestions"
+  },
+  "categories": {
+    "grundstruktur": "Structure & Contenu",
+    "sprache": "Langue & Style",
+    "berufserfahrung": "Expérience professionnelle",
+    "ausbildung": "Formation & Développement",
+    "skills": "Compétences",
+    "kontakt": "Contact & Profil",
+    "ats": "ATS & Lisibilité",
+    "gesamtwirkung": "Impact global",
+    "checks_show": "Afficher tous les critères",
+    "checks_hide": "Réduire"
+  },
+  "premium": {
+    "locked_title": "Correspondance emploi — Premium",
+    "locked_desc": "Analysez votre lettre de motivation et comparez-la à l'offre d'emploi.",
+    "unlock_btn": "Débloquer Premium",
+    "badge": "Premium",
+    "job_match": "Score de correspondance",
+    "cover_letter": "Score de lettre de motivation",
+    "missing_keywords": "Mots-clés manquants"
+  },
+  "pricing": {
+    "title": "Tarification simple",
+    "subtitle": "Commencez gratuitement, mettez à niveau si nécessaire.",
+    "free_title": "Gratuit",
+    "free_price": "€0",
+    "premium_title": "Premium",
+    "premium_price": "€9,99",
+    "per_month": "/ mois",
+    "free_features": [
+      "Analyse CV (3/jour)",
+      "Score en 8 points",
+      "Retour sur les gains rapides",
+      "10 langues disponibles"
+    ],
+    "premium_features": [
+      "Tout du gratuit",
+      "Analyse de correspondance emploi",
+      "Révision lettre de motivation",
+      "Analyses illimitées",
+      "Traitement IA prioritaire"
+    ],
+    "cta_free": "Commencer gratuitement",
+    "cta_premium": "Passer à Premium"
+  },
+  "errors": {
+    "file_too_large": "Fichier trop volumineux. Maximum 5 Mo.",
+    "invalid_type": "Seuls les fichiers PDF et TXT sont acceptés.",
+    "analysis_failed": "Analyse échouée. Veuillez réessayer.",
+    "rate_limit": "Vous avez atteint la limite gratuite. Réessayez demain ou mettez à niveau."
+  },
+  "footer": {
+    "tagline": "Forgez votre carrière parfaite.",
+    "privacy": "Politique de confidentialité",
+    "terms": "Conditions d'utilisation",
+    "imprint": "Mentions légales"
+  }
+}

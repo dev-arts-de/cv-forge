@@ -1,0 +1,148 @@
+{
+  "meta": {
+    "title": "CVForge — Analizuj swoje CV za darmo",
+    "description": "Analiza AI dla CV, listów motywacyjnych i ofert pracy. Otrzymaj natychmiastową informację zwrotną."
+  },
+  "nav": {
+    "logo": "CVForge",
+    "analyze": "Analizuj CV",
+    "pricing": "Cennik",
+    "language": "Język"
+  },
+  "hero": {
+    "badge": "Narzędzie kariery napędzane przez AI",
+    "headline": "Wykuj swoją idealną karierę.",
+    "subline": "Analiza AI dla CV, listów motywacyjnych i ofert pracy.",
+    "cta_primary": "Analizuj moje CV — za darmo",
+    "cta_secondary": "Zobacz jak to działa"
+  },
+  "features": {
+    "title": "Wszystko czego potrzebujesz, by się wyróżnić",
+    "subtitle": "Kompleksowa analiza AI wszystkich aspektów Twoich dokumentów zawodowych.",
+    "items": [
+      {
+        "title": "Analiza CV",
+        "desc": "Dogłębna analiza w 8 punktach z praktycznymi wskazówkami"
+      },
+      {
+        "title": "Sprawdzenie ATS",
+        "desc": "Upewnij się, że Twoje CV przejdzie przez automatyczne systemy"
+      },
+      {
+        "title": "Język i Ton",
+        "desc": "Idealne sformułowania, aktywne czasowniki i profesjonalny ton"
+      },
+      {
+        "title": "Dopasowanie do oferty",
+        "desc": "Porównaj swoje CV z konkretnymi ofertami pracy"
+      },
+      {
+        "title": "Szybkie wygrane",
+        "desc": "3 najważniejsze ulepszenia, które możesz zrobić teraz"
+      },
+      {
+        "title": "Wielojęzyczny",
+        "desc": "Analiza dostępna w 10 językach"
+      }
+    ]
+  },
+  "how_it_works": {
+    "title": "Jak to działa",
+    "subtitle": "Trzy proste kroki do lepszych dokumentów aplikacyjnych.",
+    "steps": [
+      {
+        "step": "01",
+        "title": "Prześlij swoje CV",
+        "desc": "Wklej tekst lub prześlij plik PDF"
+      },
+      {
+        "step": "02",
+        "title": "Analiza AI",
+        "desc": "Nasza AI sprawdza Twoje CV według 8 kluczowych kryteriów"
+      },
+      {
+        "step": "03",
+        "title": "Otrzymaj wyniki",
+        "desc": "Otrzymaj szczegółową informację zwrotną z konkretnymi ulepszeniami"
+      }
+    ]
+  },
+  "analyze": {
+    "title": "Analizuj swoje CV",
+    "subtitle": "Otrzymaj natychmiastową informację zwrotną AI o swoim CV.",
+    "upload_title": "Prześlij lub wklej swoje CV",
+    "upload_hint": "PDF lub wklej tekst bezpośrednio",
+    "drag_drop": "Przeciągnij i upuść plik tutaj",
+    "or": "lub",
+    "paste_placeholder": "Wklej tutaj tekst swojego CV...",
+    "btn_analyze": "Analizuj teraz",
+    "btn_analyzing": "Analizowanie...",
+    "analyzing_message": "Nasza AI sprawdza Twoje CV...",
+    "results_title": "Twoja analiza CV",
+    "overall_score": "Wynik ogólny",
+    "quick_wins": "Top 3 szybkie wygrane",
+    "analyze_another": "Analizuj kolejne CV",
+    "score_good": "Dobrze",
+    "score_fair": "Średnio",
+    "score_needs_work": "Wymaga poprawy",
+    "suggestions_hide": "Ukryj sugestie",
+    "suggestions_show": "sugestia | sugestie"
+  },
+  "categories": {
+    "grundstruktur": "Struktura i Treść",
+    "sprache": "Język i Styl",
+    "berufserfahrung": "Doświadczenie zawodowe",
+    "ausbildung": "Wykształcenie i Szkolenia",
+    "skills": "Umiejętności",
+    "kontakt": "Kontakt i Profil",
+    "ats": "ATS i Czytelność",
+    "gesamtwirkung": "Ogólne wrażenie",
+    "checks_show": "Pokaż wszystkie kryteria",
+    "checks_hide": "Zwiń"
+  },
+  "premium": {
+    "locked_title": "Dopasowanie do oferty — Premium",
+    "locked_desc": "Analizuj swój list motywacyjny i porównaj go z ofertą pracy.",
+    "unlock_btn": "Odblokuj Premium",
+    "badge": "Premium",
+    "job_match": "Wynik dopasowania",
+    "cover_letter": "Wynik listu motywacyjnego",
+    "missing_keywords": "Brakujące słowa kluczowe"
+  },
+  "pricing": {
+    "title": "Prosta cennik",
+    "subtitle": "Zacznij za darmo, uaktualnij gdy potrzebujesz więcej.",
+    "free_title": "Za darmo",
+    "free_price": "€0",
+    "premium_title": "Premium",
+    "premium_price": "€9,99",
+    "per_month": "/ miesiąc",
+    "free_features": [
+      "Analiza CV (3/dzień)",
+      "Punktacja w 8 punktach",
+      "Informacja zwrotna o szybkich wygranych",
+      "10 dostępnych języków"
+    ],
+    "premium_features": [
+      "Wszystko z Darmowego",
+      "Analiza dopasowania do oferty",
+      "Recenzja listu motywacyjnego",
+      "Nieograniczone analizy",
+      "Priorytetowe przetwarzanie AI"
+    ],
+    "cta_free": "Zacznij za darmo",
+    "cta_premium": "Przejdź na Premium"
+  },
+  "errors": {
+    "file_too_large": "Plik za duży. Maksymalnie 5MB.",
+    "invalid_type": "Obsługiwane są tylko pliki PDF i TXT.",
+    "analysis_failed": "Analiza nie powiodła się. Spróbuj ponownie.",
+    "rate_limit": "Osiągnąłeś darmowy limit. Spróbuj jutro lub przejdź na wyższy plan."
+  },
+  "footer": {
+    "tagline": "Wykuj swoją idealną karierę.",
+    "privacy": "Polityka prywatności",
+    "terms": "Warunki korzystania",
+    "imprint": "Informacje prawne"
+  }
+}

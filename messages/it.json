@@ -1,0 +1,148 @@
+{
+  "meta": {
+    "title": "CVForge — Analizza il tuo CV gratuitamente",
+    "description": "Analisi AI per CV, lettere di presentazione e offerte di lavoro. Ottieni feedback immediato."
+  },
+  "nav": {
+    "logo": "CVForge",
+    "analyze": "Analizza CV",
+    "pricing": "Prezzi",
+    "language": "Lingua"
+  },
+  "hero": {
+    "badge": "Strumento di carriera con AI",
+    "headline": "Forgia la tua carriera perfetta.",
+    "subline": "Analisi AI per CV, lettere di presentazione e offerte di lavoro.",
+    "cta_primary": "Analizza il mio CV — gratis",
+    "cta_secondary": "Scopri come funziona"
+  },
+  "features": {
+    "title": "Tutto ciò di cui hai bisogno per distinguerti",
+    "subtitle": "Analisi AI completa di ogni aspetto dei tuoi documenti professionali.",
+    "items": [
+      {
+        "title": "Analisi CV",
+        "desc": "Analisi approfondita in 8 punti del tuo curriculum con feedback attuabile"
+      },
+      {
+        "title": "Verifica ATS",
+        "desc": "Assicurati che il tuo CV superi i sistemi di tracciamento automatizzati"
+      },
+      {
+        "title": "Lingua e Tono",
+        "desc": "Formulazione perfetta, verbi attivi e tono professionale"
+      },
+      {
+        "title": "Corrispondenza lavoro",
+        "desc": "Confronta il tuo CV con offerte di lavoro specifiche"
+      },
+      {
+        "title": "Quick wins",
+        "desc": "I 3 miglioramenti prioritari che puoi fare subito"
+      },
+      {
+        "title": "Multilingue",
+        "desc": "Analisi disponibile in 10 lingue"
+      }
+    ]
+  },
+  "how_it_works": {
+    "title": "Come funziona",
+    "subtitle": "Tre semplici passaggi per documenti di candidatura migliori.",
+    "steps": [
+      {
+        "step": "01",
+        "title": "Carica il tuo CV",
+        "desc": "Incolla il testo o carica un file PDF"
+      },
+      {
+        "step": "02",
+        "title": "Analisi AI",
+        "desc": "La nostra AI esamina il tuo CV secondo 8 criteri chiave"
+      },
+      {
+        "step": "03",
+        "title": "Ottieni risultati",
+        "desc": "Ricevi feedback dettagliato con miglioramenti concreti"
+      }
+    ]
+  },
+  "analyze": {
+    "title": "Analizza il tuo CV",
+    "subtitle": "Ottieni feedback istantaneo AI sul tuo curriculum.",
+    "upload_title": "Carica o incolla il tuo CV",
+    "upload_hint": "PDF o incolla testo direttamente",
+    "drag_drop": "Trascina qui il tuo file",
+    "or": "o",
+    "paste_placeholder": "Incolla qui il testo del tuo CV...",
+    "btn_analyze": "Analizza ora",
+    "btn_analyzing": "Analizzando...",
+    "analyzing_message": "La nostra AI sta esaminando il tuo CV...",
+    "results_title": "La tua analisi CV",
+    "overall_score": "Punteggio complessivo",
+    "quick_wins": "Top 3 quick wins",
+    "analyze_another": "Analizza un altro CV",
+    "score_good": "Buono",
+    "score_fair": "Discreto",
+    "score_needs_work": "Da migliorare",
+    "suggestions_hide": "Nascondi suggerimenti",
+    "suggestions_show": "suggerimento | suggerimenti"
+  },
+  "categories": {
+    "grundstruktur": "Struttura e Contenuto",
+    "sprache": "Lingua e Stile",
+    "berufserfahrung": "Esperienza lavorativa",
+    "ausbildung": "Istruzione e Formazione",
+    "skills": "Competenze",
+    "kontakt": "Contatto e Profilo",
+    "ats": "ATS e Leggibilità",
+    "gesamtwirkung": "Impatto complessivo",
+    "checks_show": "Mostra tutti i criteri",
+    "checks_hide": "Comprimi"
+  },
+  "premium": {
+    "locked_title": "Corrispondenza lavoro — Premium",
+    "locked_desc": "Analizza la tua lettera di presentazione e confrontala con l'offerta di lavoro.",
+    "unlock_btn": "Sblocca Premium",
+    "badge": "Premium",
+    "job_match": "Punteggio corrispondenza",
+    "cover_letter": "Punteggio lettera",
+    "missing_keywords": "Parole chiave mancanti"
+  },
+  "pricing": {
+    "title": "Prezzi semplici",
+    "subtitle": "Inizia gratis, aggiorna quando ne hai bisogno.",
+    "free_title": "Gratuito",
+    "free_price": "€0",
+    "premium_title": "Premium",
+    "premium_price": "€9,99",
+    "per_month": "/ mese",
+    "free_features": [
+      "Analisi CV (3/giorno)",
+      "Punteggio in 8 punti",
+      "Feedback quick wins",
+      "10 lingue disponibili"
+    ],
+    "premium_features": [
+      "Tutto del gratuito",
+      "Analisi corrispondenza lavoro",
+      "Revisione lettera di presentazione",
+      "Analisi illimitate",
+      "Elaborazione AI prioritaria"
+    ],
+    "cta_free": "Inizia gratis",
+    "cta_premium": "Passa a Premium"
+  },
+  "errors": {
+    "file_too_large": "File troppo grande. Massimo 5MB.",
+    "invalid_type": "Sono supportati solo file PDF e TXT.",
+    "analysis_failed": "Analisi fallita. Riprova.",
+    "rate_limit": "Hai raggiunto il limite gratuito. Riprova domani o aggiorna."
+  },
+  "footer": {
+    "tagline": "Forgia la tua carriera perfetta.",
+    "privacy": "Informativa sulla privacy",
+    "terms": "Termini di servizio",
+    "imprint": "Note legali"
+  }
+}

@@ -1,0 +1,130 @@
+{
+  "meta": {
+    "title": "CVForge — Analyze your CV for free",
+    "description": "AI-powered analysis for CVs, cover letters & job listings. Get instant feedback and improve your career prospects."
+  },
+  "nav": {
+    "logo": "CVForge",
+    "analyze": "Check Application",
+    "pricing": "Pricing",
+    "language": "Language"
+  },
+  "hero": {
+    "badge": "AI-Powered Career Tool",
+    "headline": "Forge your perfect career.",
+    "subline": "AI-powered analysis for CVs, cover letters & job listings.",
+    "cta_primary": "Analyze my CV — free",
+    "cta_secondary": "See how it works"
+  },
+  "features": {
+    "title": "Everything you need to stand out",
+    "subtitle": "Comprehensive AI analysis covering every aspect of your professional documents.",
+    "items": [
+      { "title": "CV Analysis", "desc": "8-point deep analysis of your resume with actionable feedback" },
+      { "title": "ATS Check", "desc": "Ensure your CV passes automated tracking systems" },
+      { "title": "Language & Tone", "desc": "Perfect wording, active verbs, and professional tone" },
+      { "title": "Job Match", "desc": "Match your CV against specific job listings for maximum impact" },
+      { "title": "Quick Wins", "desc": "Get the top 3 improvements you can make right now" },
+      { "title": "Multi-language", "desc": "Analysis available in 10 languages" }
+    ]
+  },
+  "how_it_works": {
+    "title": "How it works",
+    "subtitle": "Three simple steps to a better career document.",
+    "steps": [
+      { "step": "01", "title": "Upload your CV", "desc": "Paste your CV text or upload a PDF file" },
+      { "step": "02", "title": "AI Analysis", "desc": "Our AI reviews your CV across 8 key criteria" },
+      { "step": "03", "title": "Get Results", "desc": "Receive detailed feedback with actionable improvements" }
+    ]
+  },
+  "analyze": {
+    "title": "Analyze your CV",
+    "subtitle": "Get instant AI-powered feedback on your resume.",
+    "upload_title": "Upload or paste your CV",
+    "upload_hint": "PDF or paste text directly",
+    "drag_drop": "Drag & drop your file here",
+    "or": "or",
+    "paste_placeholder": "Paste your CV text here...",
+    "btn_analyze": "Analyze now",
+    "btn_analyzing": "Analyzing...",
+    "analyzing_message": "Our AI is reviewing your CV...",
+    "results_title": "Analysis Results",
+    "overall_score": "Overall Score",
+    "quick_wins": "Top 3 Quick Wins",
+    "analyze_another": "Analyze another CV",
+    "score_good": "Good",
+    "score_fair": "Fair",
+    "score_needs_work": "Needs Work",
+    "suggestions_hide": "Hide suggestions",
+    "suggestions_show": "suggestion | suggestions",
+    "add_job": "Job Listing",
+    "add_cover_letter": "Cover Letter",
+    "job_url_placeholder": "https://company.com/jobs/...",
+    "job_url_label": "Job listing URL",
+    "upload_cover_letter": "Upload cover letter",
+    "tab_cv": "CV Analysis",
+    "tab_job": "Job Match",
+    "tab_cover_letter": "Cover Letter",
+    "tab_fit": "Fit Score",
+    "overall_fit": "Overall Fit",
+    "humanness_score": "Authenticity Score",
+    "success_probability": "Success Probability"
+  },
+  "categories": {
+    "grundstruktur": "Structure & Content",
+    "sprache": "Language & Style",
+    "berufserfahrung": "Work Experience",
+    "ausbildung": "Education & Training",
+    "skills": "Skills",
+    "kontakt": "Contact & Profile",
+    "ats": "ATS & Readability",
+    "gesamtwirkung": "Overall Impact",
+    "checks_show": "Show all checks",
+    "checks_hide": "Collapse"
+  },
+  "premium": {
+    "locked_title": "Job Match — Premium",
+    "locked_desc": "Analyze your cover letter and match it against the job listing.",
+    "unlock_btn": "Unlock Premium",
+    "badge": "Premium",
+    "job_match": "Job Match Score",
+    "cover_letter": "Cover Letter Score",
+    "missing_keywords": "Missing Keywords"
+  },
+  "pricing": {
+    "title": "Simple Pricing",
+    "subtitle": "Start free, upgrade when you need more.",
+    "free_title": "Free",
+    "free_price": "€0",
+    "premium_title": "Premium",
+    "premium_price": "€9.99",
+    "per_month": "/ month",
+    "free_features": ["CV Analysis (3/day)", "8-point scoring", "Quick wins feedback", "All 10 languages"],
+    "premium_features": ["Everything in Free", "Job Match Analysis", "Cover Letter Review", "Unlimited analyses", "Priority AI processing"],
+    "cta_free": "Get started free",
+    "cta_premium": "Upgrade to Premium"
+  },
+  "errors": {
+    "file_too_large": "File too large. Maximum 5MB.",
+    "invalid_type": "Only PDF and TXT files are supported.",
+    "analysis_failed": "Analysis failed. Please try again.",
+    "rate_limit": "You've reached the free limit. Try again tomorrow or upgrade."
+  },
+  "cover_letter": {
+    "grundstruktur": "Structure & Layout",
+    "stellenbezug": "Job Relevance & Individualisation",
+    "motivation": "Motivation & Personality",
+    "qualifikationen": "Qualifications & Experience",
+    "kompetenzen": "Competencies & Strengths",
+    "unternehmensbezug": "Company Reference",
+    "sprache": "Language & Style",
+    "zukunft": "Future Contribution & Value",
+    "schluss": "Closing & Call to Action"
+  },
+  "footer": {
+    "tagline": "Forge your perfect career.",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Service",
+    "imprint": "Imprint"
+  }
+}

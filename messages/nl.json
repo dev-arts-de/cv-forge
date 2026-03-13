@@ -1,0 +1,148 @@
+{
+  "meta": {
+    "title": "CVForge — Analyseer je CV gratis",
+    "description": "AI-gestuurde analyse voor cv's, motivatiebrieven en vacatures. Ontvang onmiddellijke feedback."
+  },
+  "nav": {
+    "logo": "CVForge",
+    "analyze": "CV analyseren",
+    "pricing": "Prijzen",
+    "language": "Taal"
+  },
+  "hero": {
+    "badge": "AI-aangedreven carrièretool",
+    "headline": "Smeed je perfecte carrière.",
+    "subline": "AI-gestuurde analyse voor cv's, motivatiebrieven en vacatures.",
+    "cta_primary": "Mijn CV analyseren — gratis",
+    "cta_secondary": "Zie hoe het werkt"
+  },
+  "features": {
+    "title": "Alles wat je nodig hebt om op te vallen",
+    "subtitle": "Uitgebreide AI-analyse van elk aspect van je professionele documenten.",
+    "items": [
+      {
+        "title": "CV-analyse",
+        "desc": "Diepgaande analyse in 8 punten met bruikbare feedback"
+      },
+      {
+        "title": "ATS-controle",
+        "desc": "Zorg ervoor dat je cv door automatische systemen komt"
+      },
+      {
+        "title": "Taal & Toon",
+        "desc": "Perfecte formulering, actieve werkwoorden en professionele toon"
+      },
+      {
+        "title": "Vacature-match",
+        "desc": "Vergelijk je cv met specifieke vacatures"
+      },
+      {
+        "title": "Snelle winsten",
+        "desc": "De 3 belangrijkste verbeteringen die je nu kunt maken"
+      },
+      {
+        "title": "Meertalig",
+        "desc": "Analyse beschikbaar in 10 talen"
+      }
+    ]
+  },
+  "how_it_works": {
+    "title": "Hoe het werkt",
+    "subtitle": "Drie eenvoudige stappen naar betere sollicitatiedocumenten.",
+    "steps": [
+      {
+        "step": "01",
+        "title": "Upload je CV",
+        "desc": "Plak je tekst of upload een PDF-bestand"
+      },
+      {
+        "step": "02",
+        "title": "AI-analyse",
+        "desc": "Onze AI beoordeelt je cv op 8 kerncriterria"
+      },
+      {
+        "step": "03",
+        "title": "Ontvang resultaten",
+        "desc": "Ontvang gedetailleerde feedback met concrete verbeteringen"
+      }
+    ]
+  },
+  "analyze": {
+    "title": "Analyseer je CV",
+    "subtitle": "Ontvang onmiddellijke AI-feedback op je curriculum vitae.",
+    "upload_title": "Upload of plak je CV",
+    "upload_hint": "PDF of plak tekst direct",
+    "drag_drop": "Zet je bestand hier neer",
+    "or": "of",
+    "paste_placeholder": "Plak hier je CV-tekst...",
+    "btn_analyze": "Nu analyseren",
+    "btn_analyzing": "Analyseren...",
+    "analyzing_message": "Onze AI bekijkt je CV...",
+    "results_title": "Jouw CV-analyse",
+    "overall_score": "Totaalscore",
+    "quick_wins": "Top 3 snelle winsten",
+    "analyze_another": "Analyseer een ander CV",
+    "score_good": "Goed",
+    "score_fair": "Redelijk",
+    "score_needs_work": "Moet verbeteren",
+    "suggestions_hide": "Verberg suggesties",
+    "suggestions_show": "suggestie | suggesties"
+  },
+  "categories": {
+    "grundstruktur": "Structuur & Inhoud",
+    "sprache": "Taal & Stijl",
+    "berufserfahrung": "Werkervaring",
+    "ausbildung": "Opleiding & Training",
+    "skills": "Vaardigheden",
+    "kontakt": "Contact & Profiel",
+    "ats": "ATS & Leesbaarheid",
+    "gesamtwirkung": "Algehele indruk",
+    "checks_show": "Alle criteria tonen",
+    "checks_hide": "Inklappen"
+  },
+  "premium": {
+    "locked_title": "Vacature-match — Premium",
+    "locked_desc": "Analyseer je motivatiebrief en vergelijk die met de vacature.",
+    "unlock_btn": "Premium ontgrendelen",
+    "badge": "Premium",
+    "job_match": "Matchscore",
+    "cover_letter": "Score sollicitatiebrief",
+    "missing_keywords": "Ontbrekende zoekwoorden"
+  },
+  "pricing": {
+    "title": "Eenvoudige prijzen",
+    "subtitle": "Begin gratis, upgrade wanneer je meer nodig hebt.",
+    "free_title": "Gratis",
+    "free_price": "€0",
+    "premium_title": "Premium",
+    "premium_price": "€9,99",
+    "per_month": "/ maand",
+    "free_features": [
+      "CV-analyse (3/dag)",
+      "Beoordeling in 8 punten",
+      "Feedback op snelle winsten",
+      "10 talen beschikbaar"
+    ],
+    "premium_features": [
+      "Alles van Gratis",
+      "Vacature-matchanalyse",
+      "Beoordeling motivatiebrief",
+      "Onbeperkte analyses",
+      "Prioritaire AI-verwerking"
+    ],
+    "cta_free": "Gratis beginnen",
+    "cta_premium": "Upgraden naar Premium"
+  },
+  "errors": {
+    "file_too_large": "Bestand te groot. Maximum 5MB.",
+    "invalid_type": "Alleen PDF- en TXT-bestanden worden ondersteund.",
+    "analysis_failed": "Analyse mislukt. Probeer het opnieuw.",
+    "rate_limit": "Je hebt de gratis limiet bereikt. Probeer het morgen opnieuw of upgrade."
+  },
+  "footer": {
+    "tagline": "Smeed je perfecte carrière.",
+    "privacy": "Privacybeleid",
+    "terms": "Gebruiksvoorwaarden",
+    "imprint": "Impressum"
+  }
+}

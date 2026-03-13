@@ -1,0 +1,131 @@
+{
+  "meta": {
+    "title": "Bewerber-Schmiede — Lebenslauf kostenlos analysieren",
+    "description": "KI-gestützte Analyse für Lebensläufe, Anschreiben & Stellenangebote. Sofortiges Feedback für bessere Karrierechancen."
+  },
+  "nav": {
+    "logo": "Bewerber-Schmiede",
+    "analyze": "Bewerbung prüfen",
+    "pricing": "Preise",
+    "language": "Sprache"
+  },
+  "hero": {
+    "badge": "KI-gestütztes Karriere-Tool",
+    "headline": "Schmied deine perfekte Karriere.",
+    "subline": "KI-gestützte Analyse für Lebensläufe, Anschreiben & Stellenangebote.",
+    "cta_primary": "Meinen CV analysieren — kostenlos",
+    "cta_secondary": "So funktioniert's"
+  },
+  "features": {
+    "title": "Alles was du brauchst, um aufzufallen",
+    "subtitle": "Umfassende KI-Analyse aller Aspekte deiner Bewerbungsunterlagen.",
+    "items": [
+      { "title": "CV-Analyse", "desc": "8-Punkte-Tiefenanalyse deines Lebenslaufs mit umsetzbarem Feedback" },
+      { "title": "ATS-Check", "desc": "Stelle sicher, dass dein CV automatische Bewerbermanagementsysteme passiert" },
+      { "title": "Sprache & Ton", "desc": "Perfekte Formulierungen, aktive Verben und professioneller Ton" },
+      { "title": "Job-Match", "desc": "Vergleiche deinen CV mit konkreten Stellenanzeigen" },
+      { "title": "Quick Wins", "desc": "Die Top 3 Verbesserungen, die du jetzt sofort umsetzen kannst" },
+      { "title": "Mehrsprachig", "desc": "Analyse in 10 Sprachen verfügbar" }
+    ]
+  },
+  "how_it_works": {
+    "title": "So funktioniert's",
+    "subtitle": "Drei einfache Schritte zu besseren Bewerbungsunterlagen.",
+    "steps": [
+      { "step": "01", "title": "CV hochladen", "desc": "Füge deinen CV-Text ein oder lade eine PDF-Datei hoch" },
+      { "step": "02", "title": "KI-Analyse", "desc": "Unsere KI bewertet deinen CV nach 8 Kernkriterien" },
+      { "step": "03", "title": "Ergebnisse erhalten", "desc": "Erhalte detailliertes Feedback mit umsetzbaren Verbesserungen" }
+    ]
+  },
+  "analyze": {
+    "title": "Lebenslauf Voll-Prüfung",
+    "subtitle": "Intelligente Analyse für einen überzeugenden Auftritt.",
+    "upload_title": "CV hochladen oder einfügen",
+    "upload_hint": "PDF oder Text direkt einfügen",
+    "drag_drop": "Datei hier ablegen",
+    "or": "oder",
+    "paste_placeholder": "CV-Text hier einfügen...",
+    "btn_analyze": "Jetzt analysieren",
+    "btn_analyzing": "Analysiere...",
+    "analyzing_message": "Unsere KI prüft deinen CV...",
+    "results_title": "Analyse-Ergebnisse",
+    "overall_score": "Gesamtscore",
+    "quick_wins": "Top 3 Quick Wins",
+    "analyze_another": "Weiteren CV analysieren",
+    "score_good": "Gut",
+    "score_fair": "Ok",
+    "score_needs_work": "Verbesserungsbedarf",
+    "suggestions_hide": "Vorschläge ausblenden",
+    "suggestions_show": "Vorschlag | Vorschläge",
+    "add_job": "Stellenausschreibung",
+    "add_cover_letter": "Anschreiben",
+    "job_url_placeholder": "https://unternehmen.de/jobs/...",
+    "job_url_label": "URL der Stellenausschreibung",
+    "upload_cover_letter": "Anschreiben hochladen",
+    "tab_cv": "Lebenslauf",
+    "tab_job": "Job Match",
+    "tab_cover_letter": "Anschreiben",
+    "tab_fit": "Passgenauigkeit",
+    "tab_letter_builder": "Anschreiben erstellen",
+    "overall_fit": "Passgenauigkeit",
+    "humanness_score": "Authentizitätsscore",
+    "success_probability": "Erfolgschance"
+  },
+  "categories": {
+    "grundstruktur": "Grundstruktur & Inhalt",
+    "sprache": "Sprache & Formulierungen",
+    "berufserfahrung": "Berufserfahrung",
+    "ausbildung": "Ausbildung & Weiterbildungen",
+    "skills": "Fähigkeiten",
+    "kontakt": "Kontakt & Profil",
+    "ats": "ATS & Lesbarkeit",
+    "gesamtwirkung": "Gesamtwirkung",
+    "checks_show": "Alle Checks anzeigen",
+    "checks_hide": "Ausblenden"
+  },
+  "premium": {
+    "locked_title": "Job-Match — Premium",
+    "locked_desc": "Analysiere dein Anschreiben und vergleiche es mit der Stellenausschreibung.",
+    "unlock_btn": "Premium freischalten",
+    "badge": "Premium",
+    "job_match": "Job-Match Score",
+    "cover_letter": "Anschreiben Score",
+    "missing_keywords": "Fehlende Keywords"
+  },
+  "pricing": {
+    "title": "Einfache Preise",
+    "subtitle": "Kostenlos starten, bei Bedarf upgraden.",
+    "free_title": "Kostenlos",
+    "free_price": "€0",
+    "premium_title": "Premium",
+    "premium_price": "€9,99",
+    "per_month": "/ Monat",
+    "free_features": ["CV-Analyse (3/Tag)", "8-Punkte-Bewertung", "Quick-Wins-Feedback", "Alle 10 Sprachen"],
+    "premium_features": ["Alles aus Free", "Job-Match-Analyse", "Anschreiben-Review", "Unbegrenzte Analysen", "Priorisierte KI-Verarbeitung"],
+    "cta_free": "Kostenlos starten",
+    "cta_premium": "Zu Premium upgraden"
+  },
+  "errors": {
+    "file_too_large": "Datei zu groß. Maximum 5MB.",
+    "invalid_type": "Nur PDF- und TXT-Dateien werden unterstützt.",
+    "analysis_failed": "Analyse fehlgeschlagen. Bitte erneut versuchen.",
+    "rate_limit": "Du hast das kostenlose Limit erreicht. Morgen erneut versuchen oder upgraden."
+  },
+  "cover_letter": {
+    "grundstruktur": "Grundstruktur & Aufbau",
+    "stellenbezug": "Stellenbezug & Individualisierung",
+    "motivation": "Motivation & Persönlichkeit",
+    "qualifikationen": "Qualifikationen & Erfahrungen",
+    "kompetenzen": "Kompetenzen & Stärken",
+    "unternehmensbezug": "Unternehmensbezug",
+    "sprache": "Sprache & Stil",
+    "zukunft": "Zukunft & Mehrwert",
+    "schluss": "Schluss & Gesprächsbereitschaft"
+  },
+  "footer": {
+    "tagline": "Schmied deine perfekte Karriere.",
+    "privacy": "Datenschutz",
+    "terms": "Nutzungsbedingungen",
+    "imprint": "Impressum"
+  }
+}
